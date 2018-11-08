@@ -31,4 +31,3 @@ function makeInt(n){
   number =  parseInt('n', 10)
   return number
 }
-
